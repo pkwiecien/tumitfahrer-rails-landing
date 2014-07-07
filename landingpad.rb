@@ -17,8 +17,7 @@ class LandingPad < Sinatra::Base
     # Page settings - used to configure your landing page
     $page_title = 'TUMitfahrer'
     $app_title = 'TUMitfahrer'
-    $app_summary = 'Get a page up and running in minutes and
-                    start collecting contacts immediately!'
+    $app_summary = 'wherever together'
     #your google analyics tracking key, if applicable
     $google_analytics_key = 'UA-XXXXXX-X'
 
