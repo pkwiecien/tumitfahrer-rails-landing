@@ -11,8 +11,8 @@ class LandingPad < Sinatra::Base
 
   configure do
     # Admin settings - used to access contacts
-    $admin_acct_name = 'tumitfahrer'
-    $admin_acct_passwd = 'tumitfahrer!2'
+    $admin_acct_name = 'changeme'
+    $admin_acct_passwd = 'changeme'
 
     # Page settings - used to configure your landing page
     $page_title = 'TUMitfahrer'
